@@ -1,0 +1,18 @@
+﻿  ParallelDependencyAnalyzer.cpp
+  Utilities.cpp
+  TypeTable.cpp
+  TypeStore.cpp
+  TypeAnalyzer.cpp
+  Tokenizer.cpp
+  ThreadPool.cpp
+  Task.cpp
+  SemiExp.cpp
+  Parser.cpp
+  ConfigureParser.cpp
+  ActionsAndRules.cpp
+  FileSystem.cpp
+  DependencyAnalyzer.cpp
+  DataStore.cpp
+  SyntaxTree.cpp
+  Generating Code...
+  ParallelDependencyAnalyzer.vcxproj -> E:\Object Oriented Design\Project3_DependencyAnalyzer\x64\Debug\ParallelDependencyAnalyzer.exe

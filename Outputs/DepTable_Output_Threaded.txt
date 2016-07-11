@@ -1,0 +1,34 @@
+
+* E:\Object Oriented Design\Project3_DependencyAnalyzer\Inputs\Nested\FileC.h
+        - E:\Object Oriented Design\Project3_DependencyAnalyzer\Inputs\FileB.h
+        - E:\Object Oriented Design\Project3_DependencyAnalyzer\Inputs\Nested\FileC.cpp
+
+* E:\Object Oriented Design\Project3_DependencyAnalyzer\Inputs\Nested\FileD.cpp
+        - E:\Object Oriented Design\Project3_DependencyAnalyzer\Inputs\Nested\FileD.h
+        - E:\Object Oriented Design\Project3_DependencyAnalyzer\Inputs\Nested\FileC.h
+        - E:\Object Oriented Design\Project3_DependencyAnalyzer\Inputs\FileA.cpp
+        - E:\Object Oriented Design\Project3_DependencyAnalyzer\Inputs\FileA.h
+
+* E:\Object Oriented Design\Project3_DependencyAnalyzer\Inputs\FileA.cpp
+        - E:\Object Oriented Design\Project3_DependencyAnalyzer\Inputs\FileA.h
+        - E:\Object Oriented Design\Project3_DependencyAnalyzer\Inputs\Nested\FileC.h
+        - E:\Object Oriented Design\Project3_DependencyAnalyzer\Inputs\FileB.h
+
+* E:\Object Oriented Design\Project3_DependencyAnalyzer\Inputs\FileB.cpp
+        - E:\Object Oriented Design\Project3_DependencyAnalyzer\Inputs\FileB.h
+        - E:\Object Oriented Design\Project3_DependencyAnalyzer\Inputs\Nested\FileC.h
+        - E:\Object Oriented Design\Project3_DependencyAnalyzer\Inputs\FileA.cpp
+        - E:\Object Oriented Design\Project3_DependencyAnalyzer\Inputs\FileA.h
+
+* E:\Object Oriented Design\Project3_DependencyAnalyzer\Inputs\Nested\FileD.h
+        - E:\Object Oriented Design\Project3_DependencyAnalyzer\Inputs\Nested\FileC.h
+        - E:\Object Oriented Design\Project3_DependencyAnalyzer\Inputs\Nested\FileD.cpp
+
+* E:\Object Oriented Design\Project3_DependencyAnalyzer\Inputs\Nested\FileC.cpp
+        - E:\Object Oriented Design\Project3_DependencyAnalyzer\Inputs\Nested\FileC.h
+
+* E:\Object Oriented Design\Project3_DependencyAnalyzer\Inputs\FileA.h
+        - E:\Object Oriented Design\Project3_DependencyAnalyzer\Inputs\FileA.cpp
+
+* E:\Object Oriented Design\Project3_DependencyAnalyzer\Inputs\FileB.h
+        - E:\Object Oriented Design\Project3_DependencyAnalyzer\Inputs\Nested\FileC.h

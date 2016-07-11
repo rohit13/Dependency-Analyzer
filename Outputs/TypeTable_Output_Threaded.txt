@@ -1,0 +1,18 @@
+
+getVector                Member Function          E:\Object Oriented Design\Project3_DependencyAnalyzer\Inputs\Nested\FileC.cpp                       GlobalNS                 
+A                        Member Function          E:\Object Oriented Design\Project3_DependencyAnalyzer\Inputs\FileA.cpp                              GlobalNS                 
+                                                  E:\Object Oriented Design\Project3_DependencyAnalyzer\Inputs\FileA.h                                GlobalNS                 
+DC                       Member Function          E:\Object Oriented Design\Project3_DependencyAnalyzer\Inputs\Nested\FileD.cpp                       GlobalNS                 
+                                                  E:\Object Oriented Design\Project3_DependencyAnalyzer\Inputs\Nested\FileD.h                         GlobalNS                 
+Bstruct                  struct                   E:\Object Oriented Design\Project3_DependencyAnalyzer\Inputs\FileB.h                                B                        
+~A                       Member Function          E:\Object Oriented Design\Project3_DependencyAnalyzer\Inputs\FileA.cpp                              GlobalNS                 
+methodA                  Member Function          E:\Object Oriented Design\Project3_DependencyAnalyzer\Inputs\FileA.cpp                              GlobalNS                 
+B                        namespace                E:\Object Oriented Design\Project3_DependencyAnalyzer\Inputs\FileB.h                                GlobalNS                 
+int                      Member Function          E:\Object Oriented Design\Project3_DependencyAnalyzer\Inputs\Nested\FileC.h                         GlobalNS                 
+globalFuncB              Global Function          E:\Object Oriented Design\Project3_DependencyAnalyzer\Inputs\FileB.h                                B                        
+methodB                  Global Function          E:\Object Oriented Design\Project3_DependencyAnalyzer\Inputs\FileB.h                                Bstruct                  
+~DC                      Member Function          E:\Object Oriented Design\Project3_DependencyAnalyzer\Inputs\Nested\FileD.cpp                       GlobalNS                 
+methodDC                 Member Function          E:\Object Oriented Design\Project3_DependencyAnalyzer\Inputs\Nested\FileD.cpp                       GlobalNS                 
+globalLambda             Lambda                   E:\Object Oriented Design\Project3_DependencyAnalyzer\Inputs\Nested\FileC.h                         globalLambda             
+C                        class                    E:\Object Oriented Design\Project3_DependencyAnalyzer\Inputs\Nested\FileC.h                         GlobalNS                 
+D                        struct                   E:\Object Oriented Design\Project3_DependencyAnalyzer\Inputs\Nested\FileD.h                         GlobalNS                 

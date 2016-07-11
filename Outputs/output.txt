@@ -1,0 +1,74 @@
+
+
+  Processing Directory : D:\Study\OOD\Project2\Dependency_Analyzer\Inputs\
+ --------------------------------------------------------------------------
+
+
+Type Analysis on file : FileB.h On thread : 14168
+
+Type Analysis on file : FileA.h On thread : 14340
+
+Type Analysis on file : FileA.cpp On thread : 10720
+
+Type Analysis on file : FileB.cpp On thread : 11052
+
+Type Analysis on file : FileC.h On thread : 9516
+
+Type Analysis on file : FileD.h On thread : 14340
+
+Type Analysis on file : FileC.cpp On thread : 11052
+
+Type Analysis on file : FileD.cpp On thread : 14168
+
+Dependency Analysis on file : FileA.h On thread : 14340
+
+Dependency Analysis on file : FileB.h On thread : 10720
+
+Dependency Analysis on file : FileA.cpp On thread : 11052
+
+Dependency Analysis on file : FileB.cpp On thread : 9516
+
+
+
+Symbol table is stored at : D:\Study\OOD\Project2\Dependency_Analyzer\Outputs\TypeTable.txt
+
+
+Dependency Analysis on file : FileC.h On thread : 14340
+
+Dependency Analysis on file : FileD.h On thread : 14168
+
+Dependency Analysis on file : FileC.cpp On thread : 9516
+
+Dependency Analysis on file : FileD.cpp On thread : 10720
+
+  Dependency List
+ -----------------
+  * D:\Study\OOD\Project2\Dependency_Analyzer\Inputs\FileA.h
+        - D:\Study\OOD\Project2\Dependency_Analyzer\Inputs\FileA.cpp
+
+  * D:\Study\OOD\Project2\Dependency_Analyzer\Inputs\FileA.cpp
+        - D:\Study\OOD\Project2\Dependency_Analyzer\Inputs\FileA.h
+
+  * D:\Study\OOD\Project2\Dependency_Analyzer\Inputs\Nested\FileC.cpp
+        - D:\Study\OOD\Project2\Dependency_Analyzer\Inputs\Nested\FileC.h
+
+  * D:\Study\OOD\Project2\Dependency_Analyzer\Inputs\Nested\FileD.h
+        - D:\Study\OOD\Project2\Dependency_Analyzer\Inputs\Nested\FileD.cpp
+        - D:\Study\OOD\Project2\Dependency_Analyzer\Inputs\Nested\FileC.h
+
+  * D:\Study\OOD\Project2\Dependency_Analyzer\Inputs\FileB.cpp
+        - D:\Study\OOD\Project2\Dependency_Analyzer\Inputs\FileB.h
+        - D:\Study\OOD\Project2\Dependency_Analyzer\Inputs\FileA.h
+        - D:\Study\OOD\Project2\Dependency_Analyzer\Inputs\FileA.cpp
+
+  * D:\Study\OOD\Project2\Dependency_Analyzer\Inputs\Nested\FileD.cpp
+        - D:\Study\OOD\Project2\Dependency_Analyzer\Inputs\Nested\FileD.h
+        - D:\Study\OOD\Project2\Dependency_Analyzer\Inputs\FileA.h
+        - D:\Study\OOD\Project2\Dependency_Analyzer\Inputs\FileA.cpp
+
+  * D:\Study\OOD\Project2\Dependency_Analyzer\Inputs\Nested\FileC.h
+        - D:\Study\OOD\Project2\Dependency_Analyzer\Inputs\FileB.h
+        - D:\Study\OOD\Project2\Dependency_Analyzer\Inputs\Nested\FileC.cpp
+
+
+D:\Study\OOD\Project2\Dependency_Analyzer>

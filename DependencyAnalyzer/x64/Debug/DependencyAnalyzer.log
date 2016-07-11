@@ -1,0 +1,16 @@
+﻿  DependencyAnalyzer.cpp
+  Utilities.cpp
+  TypeTable.cpp
+  TypeStore.cpp
+  TypeAnalyzer.cpp
+  Tokenizer.cpp
+  ThreadPool.cpp
+  SemiExp.cpp
+  Parser.cpp
+  ConfigureParser.cpp
+  ActionsAndRules.cpp
+  FileSystem.cpp
+  DataStore.cpp
+  SyntaxTree.cpp
+  Generating Code...
+  DependencyAnalyzer.vcxproj -> E:\Object Oriented Design\Project3_DependencyAnalyzer\x64\Debug\DependencyAnalyzer.exe

@@ -1,0 +1,1 @@
+devenv Project3_DependencyAnalyzer.sln /rebuild debug
